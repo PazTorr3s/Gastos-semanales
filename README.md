@@ -30,4 +30,5 @@ CSS
 ```
 4. Abre el archivo index.html con el navegador
 
+<img width="1222" height="855" alt="image" src="https://github.com/user-attachments/assets/6c96e614-e9b2-43e8-9fa3-71437157e8f8" />
 
