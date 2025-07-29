@@ -15,7 +15,7 @@ CSS
 1. Clonar el repositorio
 
 ```bash
-  git clone https://github.com/PazTorr3s/Memorice.git
+  git clone https://github.com/PazTorr3s/Gastos-semanales.git
 ```
 
 2. Entrar al repositorio
